@@ -1,3 +1,5 @@
 [user]
 	email = lakpath.sonata@gmail.com
 	name = glakpath1700
+[pull]
+	rebase = false
